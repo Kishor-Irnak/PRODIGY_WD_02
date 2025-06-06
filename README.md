@@ -9,7 +9,7 @@ This project includes features like time tracking, pause, reset, and lap time �
 🔹 Real-time Time Display — Runs seamlessly with JavaScript logic
 
 🌐 Live Demo:
-🔗 Stopwatch Live (Replace with actual link)
+🔗https://kishor-irnak.github.io/PRODIGY_WD_02/
 
 🛠️ Tech Stack:
 HTML5
